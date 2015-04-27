@@ -1,2 +1,2 @@
 # Pllug
-it's my dirst repository
+it's my first repository
